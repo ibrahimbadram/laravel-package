@@ -1,0 +1,14 @@
+{
+    "name": "gopackage/calculator",
+    "description": "this is demo package",
+    "type": "project",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "ibrahim badran",
+            "email": "badranibrahim1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
